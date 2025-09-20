@@ -1,3 +1,28 @@
+# Mind Ease – A Mental Health Support Website
+
+## Overview
+Mind Ease is a basic mental health support website designed to provide encouragement, mood check-ins, and resources for emotional well-being. It focuses on accessibility, simplicity, and a calming user experience.
+
+## Features
+- Light mint green theme for a calm look  
+- Responsive layout (works on desktop and mobile)  
+- Navigation bar for easy movement between sections  
+- Image carousel with hover animation  
+- “Back to top” button  
+
+## Technologies Used
+- **HTML5** – structure and semantic layout  
+- **CSS3** – styling, animations, responsive design  
+- **JavaScript** – interactivity  
+
+## Live Website
+https://wk8finalproject.vercel.app/
+
+## Author
+Emmanuel
+
+
+
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
